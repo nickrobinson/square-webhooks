@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["nrobinson13@gmail.com"]
 
   spec.summary       = "Square Webhooks Event Handling Simplified"
-  s.description = "Square-webhooks is a Ruby gem designed to make the handling of Square webhooks easy and maintainable. Inspired by the well-known stripe_event gem, square-webhooks provides a robust and flexible framework to receive, verify, and handle Square webhook events in a Rails application, offering a seamless integration with the Square API."
+  spec.description = "Square-webhooks is a Ruby gem designed to make the handling of Square webhooks easy and maintainable. Inspired by the well-known stripe_event gem, square-webhooks provides a robust and flexible framework to receive, verify, and handle Square webhook events in a Rails application, offering a seamless integration with the Square API."
 
   spec.homepage      = "https://github.com/nickrobinson/square-webhooks"
   spec.license       = "MIT"
